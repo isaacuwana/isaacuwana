@@ -1,1 +1,1 @@
-# The goal is to advance scientific knowledge through computational techniques.
+# The goal is to advance scientific knowledge
